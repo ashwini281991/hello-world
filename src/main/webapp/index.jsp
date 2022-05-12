@@ -7,6 +7,6 @@
 <title>Sample Java Web application</title>
 </head>
 <body>
-
+    <p> index file of jsp is edited</P>
 </body>
 </html>
